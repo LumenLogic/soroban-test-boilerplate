@@ -21,7 +21,7 @@ Setting up a robust testing environment for Soroban requires repetitive scaffold
    ```
    
 ### Roadmap
-* Add utility functions for easily mocking Stellar Asset Contract (SAC) token balances.
+* [ ] Add utility functions for easily mocking Stellar Asset Contract (SAC) token balances.
 * [ ] Integrate a code coverage reporting tool (e.g., cargo-tarpaulin) into the CI pipeline.
 * [ ] Create examples for testing cross-contract calls.
 * [ ] Add advanced time-travel utility functions for testing time-bound logic.
